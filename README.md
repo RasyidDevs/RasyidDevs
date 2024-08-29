@@ -13,3 +13,18 @@
   
   👀 Looking for opportunity to increase my **skill**
 </div>
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/rasyid-bomantoro? 
+    utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">
+ </a>
+ <a href="https://www.instagram.com/rasyidbsp?igsh=MWpnY2M0ZmUxdjd3eQ==">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ </a>
+</div>
+
+<h1 align="center">
+  Languages-Framework-Tools
+</h1>
+
