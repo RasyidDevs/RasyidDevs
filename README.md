@@ -27,12 +27,27 @@
 <h2 align="center">
   👨‍💻 Languages-Framework-Tools 👨‍💻
 </h2>
+
 <div align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons? 
-       i=html,css,js,figma,bootstrap,laravel,jquery,php,mysql,vscode&perline=6"/>
-   </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap,laravel,jquery,php,mysql,vscode&perline=6" alt="Skills Icons"/>
+  </a>
 </div>
+
+<h2 align="center">
+ 👨‍💻 Stats 👨‍💻
+</h2>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RasyidDevs&show_icons=true&theme=merko">
+</div>
+
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=0BF71D&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Follow+me+on+social+media" alt="Typing SVG" />
+</a>
+</h1>
+
 
 
 
