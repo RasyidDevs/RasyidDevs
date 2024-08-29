@@ -24,7 +24,20 @@
  </a>
 </div>
 
-<h3 align="center">
+<h2 align="center">
   👨‍💻 Languages-Framework-Tools 👨‍💻
-</h3>
+</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons? 
+       i=html,css,js,figma,bootstrap,laravel,jquery,php,mysql,vscode&perline=6"/>
+   </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasyidDevs&layout=pie">
+  </a>
+</div>
 
