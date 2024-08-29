@@ -43,9 +43,7 @@
 </div>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=0BF71D&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Follow+me+on+social+media" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=0BF71D&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" /></a>
 </h1>
 
 
