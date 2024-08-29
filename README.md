@@ -27,7 +27,6 @@
 <h2 align="center">
   👨‍💻 Languages-Framework-Tools 👨‍💻
 </h2>
-
 <div align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons? 
@@ -35,9 +34,5 @@
    </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasyidDevs&layout=pie">
-  </a>
-</div>
+
 
