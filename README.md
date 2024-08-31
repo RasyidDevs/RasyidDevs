@@ -39,8 +39,10 @@
 </h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RasyidDevs&show_icons=true&theme=merko">
+ <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=RasyidDevs&show_icons=true&theme=merko">
+ <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasyidDevs&layout=compact&theme=merko">
 </div>
+
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=700&color=0BF71D&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" /></a>
