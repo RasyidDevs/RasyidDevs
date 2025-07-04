@@ -8,7 +8,7 @@
   
   👨‍💻 i'm currently learning  **Artificial Intellegent**
 
-  ❓ Ask me about **Laravel, PHP , MySQL , ..or anything <a href="https://www.instagram.com/rasyidbsp? 
+  ❓ Ask me about **Anything <a href="https://www.instagram.com/rasyidbsp? 
   igsh=MWpnY2M0ZmUxdjd3eQ== ">Here</a>** 
   
   👀 Looking for opportunity to increase my **skill**
