@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap,laravel,jquery,php,mysql,vscode&perline=6" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap,laravel,jquery,php,mysql,vscode,py,java,postgres,tensorflow,git,sklearn,pytorch,anaconda&perline=6" alt="Skills Icons"/>
   </a>
 </div>
 
