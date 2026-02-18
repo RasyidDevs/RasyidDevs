@@ -42,7 +42,7 @@
 <a href="https://git.io/awesome-stats-card">
   <img
     alt="My Awesome Stats"
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/RasyidDevs?cardType=level&fontFamily=&preferLogin=false"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/RasyidDevs?cardType=level&fontFamily=&preferLogin=false&theme=tokyonight"
   />
 </a>
 
