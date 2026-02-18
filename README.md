@@ -41,7 +41,7 @@
 <div align="center">
 <img
   alt="Anurag's GitHub stats"
-  src="https://github-readme-stats.vercel.app/api?username=RasyidDevs&show_icons=true&theme=radical"
+  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
 />
 </div>
 
