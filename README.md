@@ -39,9 +39,10 @@
 </h2>
 
 <div align="center">
-<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RasyidDevs&show_icons=true&theme=merko&cache_seconds=86400">
-<img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RasyidDevs&layout=compact&theme=merko&cache_seconds=86400">
-
+<img
+  alt="Anurag's GitHub stats"
+  src="https://github-readme-stats.vercel.app/api?username=RasyidDevs&show_icons=true&theme=radical"
+/>
 </div>
 
 
