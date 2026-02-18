@@ -39,10 +39,13 @@
 </h2>
 
 <div align="center">
-<img
-  alt="Anurag's GitHub stats"
-  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
-/>
+<a href="https://git.io/awesome-stats-card">
+  <img
+    alt="My Awesome Stats"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/RasyidDevs?cardType=level&fontFamily=&preferLogin=false"
+  />
+</a>
+
 </div>
 
 
